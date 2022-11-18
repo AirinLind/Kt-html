@@ -1,0 +1,301 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 150%;
+    background-image: url("https://kartinkin.net/uploads/posts/2020-07/thumbs/1593656747_31-p-krasivii-fon-66.jpg")
+}
+
+h1{
+    text-align: center;
+    color: #fff;
+}
+
+p{
+    font-weight: lighter;
+}
+
+
+.block1{
+    background-color:aliceblue;
+    font-weight: bold;
+    color: blueviolet;
+    border-radius: 3vh;
+    text-align: center;
+    overflow: hidden;
+    width: 15%;
+    height: 30%;
+    position: absolute;
+    padding: 20px;
+    left: 40vh;
+    top: 25vh;
+}
+.block2{
+    background-color:aliceblue;
+    font-weight: bold;
+    color: blueviolet;
+    border-radius: 3vh;
+    text-align: center;
+    overflow: hidden;
+    width: 15%;
+    height: 30%;
+    position: absolute;
+    padding: 20px;
+    left: 90vh;
+    top: 25vh;
+}
+.block3{
+    background-color:aliceblue;
+    font-weight: bold;
+    color: blueviolet;
+    border-radius: 3vh;
+    text-align: center;
+    overflow: hidden;
+    width: 15%;
+    height: 30%;
+    position: absolute;
+    padding: 20px;
+    left: 140vh;
+    top: 25vh;
+}
+.block4{
+    background-color:aliceblue;
+    font-weight: bold;
+    color: blueviolet;
+    border-radius: 3vh;
+    text-align: center;
+    overflow: hidden;
+    width: 15%;
+    height: 30%;
+    position: absolute;
+    padding: 20px;
+    left: 40vh;
+    top: 70vh;
+}
+
+.block5{
+    background-color:aliceblue;
+    font-weight: bold;
+    color: blueviolet;
+    border-radius: 3vh;
+    text-align: center;
+    overflow: hidden;
+    width: 15%;
+    height: 30%;
+    position: absolute;
+    padding: 20px;
+    left: 90vh;
+    top: 70vh;
+}
+
+.block6{
+    background-color:aliceblue;
+    font-weight: bold;
+    color: blueviolet;
+    border-radius: 3vh;
+    text-align: center;
+    overflow: hidden;
+    width: 15%;
+    height: 30%;
+    position: absolute;
+    padding: 20px;
+    left: 140vh;
+    top: 70vh;
+}
+
+
+@media screen and (max-width: 1100px){
+    h1{
+        text-align: center;
+        color: #fff;
+    }
+    
+    p{
+        font-weight: lighter;
+    }
+    
+    
+    .block1{
+        background-color:aliceblue;
+        font-weight: bold;
+        color: blueviolet;
+        border-radius: 3vh;
+        text-align: center;
+        overflow: hidden;
+        width: 30%;
+        height: 20%;
+        position: absolute;
+        padding: 20px;
+        left: 5vh;
+        top: 20vh;
+    }
+    .block2{
+        background-color:aliceblue;
+        font-weight: bold;
+        color: blueviolet;
+        border-radius: 3vh;
+        text-align: center;
+        overflow: hidden;
+        width: 30%;
+        height: 20%;
+        position: absolute;
+        padding: 20px;
+        left: 35vh;
+        top: 20vh;
+    }
+    .block3{
+        background-color:aliceblue;
+        font-weight: bold;
+        color: blueviolet;
+        border-radius: 3vh;
+        text-align: center;
+        overflow: hidden;
+        width: 30%;
+        height: 20%;
+        position: absolute;
+        padding: 20px;
+        left: 5vh;
+        top: 50vh;
+    }
+    .block4{
+        background-color:aliceblue;
+        font-weight: bold;
+        color: blueviolet;
+        border-radius: 3vh;
+        text-align: center;
+        overflow: hidden;
+        width: 30%;
+        height: 20%;
+        position: absolute;
+        padding: 20px;
+        left: 35vh;
+        top: 50vh;
+    }
+    
+    .block5{
+        background-color:aliceblue;
+        font-weight: bold;
+        color: blueviolet;
+        border-radius: 3vh;
+        text-align: center;
+        overflow: hidden;
+        width: 30%;
+        height: 20%;
+        position: absolute;
+        padding: 20px;
+        left: 5vh;
+        top: 80vh;
+    }
+    
+    .block6{
+        background-color:aliceblue;
+        font-weight: bold;
+        color: blueviolet;
+        border-radius: 3vh;
+        text-align: center;
+        overflow: hidden;
+        width: 30%;
+        height: 20%;
+        position: absolute;
+        padding: 20px;
+        left: 35vh;
+        top: 80vh;
+    }
+}
+
+@media screen and (max-width: 500px){
+    h1{
+        text-align: center;
+        color: #fff;
+    }
+    
+    p{
+        font-weight: lighter;
+    }
+    
+    
+    .block1{
+        background-color:aliceblue;
+        font-weight: bold;
+        color: blueviolet;
+        border-radius: 3vh;
+        text-align: center;
+        overflow: hidden;
+        width: 55%;
+        height: 30%;
+        position: absolute;
+        padding: 20px;
+        left: 10vh;
+        top: 25vh;
+    }
+    .block2{
+        background-color:aliceblue;
+        font-weight: bold;
+        color: blueviolet;
+        border-radius: 3vh;
+        text-align: center;
+        overflow: hidden;
+        width: 55%;
+        height: 30%;
+        position: absolute;
+        padding: 20px;
+        left: 10vh;
+        top: 70vh;
+    }
+    .block3{
+        background-color:aliceblue;
+        font-weight: bold;
+        color: blueviolet;
+        border-radius: 3vh;
+        text-align: center;
+        overflow: hidden;
+        width: 55%;
+        height: 30%;
+        position: absolute;
+        padding: 20px;
+        left: 10vh;
+        top: 115vh;
+    }
+    .block4{
+        background-color:aliceblue;
+        font-weight: bold;
+        color: blueviolet;
+        border-radius: 3vh;
+        text-align: center;
+        overflow: hidden;
+        width: 55%;
+        height: 30%;
+        position: absolute;
+        padding: 20px;
+        left: 10vh;
+        top: 160vh;
+    }
+    
+    .block5{
+        background-color:aliceblue;
+        font-weight: bold;
+        color: blueviolet;
+        border-radius: 3vh;
+        text-align: center;
+        overflow: hidden;
+        width: 55%;
+        height: 30%;
+        position: absolute;
+        padding: 20px;
+        left: 10vh;
+        top: 205vh;
+    }
+    
+    .block6{
+        background-color:aliceblue;
+        font-weight: bold;
+        color: blueviolet;
+        border-radius: 3vh;
+        text-align: center;
+        overflow: hidden;
+        width: 55%;
+        height: 30%;
+        position: absolute;
+        padding: 20px;
+        left: 10vh;
+        top: 250vh;
+    }
+}
